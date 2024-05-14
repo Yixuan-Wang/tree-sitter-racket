@@ -6,6 +6,13 @@ Racket grammar for tree-sitter.
 
 This grammar only implements the Racket language with the default readtable.
 
+## This Fork
+
+> [!WARNING]
+> Experimental implementation of Python bindings based on official tree-sitter parsers.
+> **Not tested or maintained.**
+> Use at your own risk.
+
 ## Status
 
 It should be complete and compatible with Racket 8.9.
